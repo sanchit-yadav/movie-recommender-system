@@ -9,9 +9,9 @@ Our Movie Recommender System, built using Python and Natural Language Processing
 #### Follow these steps to set up and run the application:
 
 ### 1.Clone the Repository:
-
-   [git clone](https://github.com/sanchit-yadav/movie-recommender-system.git)
-
+   ```bash
+   git clone https://github.com/sanchit-yadav/movie-recommender-system.git
+   ```
 
 ### 2.Create a Virtual Environment: Make sure you have a virtual environment set up for your project.
 
